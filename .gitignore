@@ -10,5 +10,6 @@
 #Any screenshots, etc.
 *.png
 *.jpg
+!IL2SkinsRepoCloning.jpg
 *.tga
 *.bmp
