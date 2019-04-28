@@ -1,0 +1,14 @@
+# All the files to ignore
+
+#Zip backups/download files
+*.zip
+*.zip.*
+
+#Raw sources files (because they are hundreds of MBs)
+*.psd
+
+#Any screenshots, etc.
+*.png
+*.jpg
+*.tga
+*.bmp
