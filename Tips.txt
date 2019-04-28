@@ -1,0 +1,17 @@
+Useful Information:
+
+
+Skin Creation Guide: https://forum.il2sturmovik.com/topic/13622-skinning-quick-and-dirty-for-absolute-beginners/
+Skin Templates:  https://forum.il2sturmovik.com/topic/35355-official-skin-template-links-updated-42519/
+
+When using photoshop CS2:
+
+NVIDIA DDS plugin: https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop
+
+To save DDS:
+1) Save the PSD
+2) Layer -> Flatten Image (DO NOT SAVE PSD AGAIN!)
+3) File -> Save As -> DDS
+4) Use DXT5 ARGB 8Bpp | Interpolated Alpha, and ensure Generate Mip Maps is checked, press Save in NVIDIA plugin window
+5) Once dds is exported, CLOSE THE PSD, DO NOT SAVE IT.
+

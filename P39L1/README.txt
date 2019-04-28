@@ -1,15 +1,8 @@
-SAVE PSD
+"Idle Thumbs"
+"RCAF Stat Trak"
+For P-39L1
 
-Layers, Flatten Image
+Skin created April 2019 by Richard Walsh
+http://whilefun.com/
 
-Save as -> DDS
-
-//De-select alpha channel
-
-Select DXT5
-
-Save DDS
-
-DO NOT SAVE OVER PSD FILE!!!
-
-
+To install, place the dds file inside the \1C Game Studios\IL-2 Sturmovik Great Battles\data\graphics\skins\[PlaneName]\ folder
